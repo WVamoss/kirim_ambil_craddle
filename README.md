@@ -1,11 +1,11 @@
 
-![Image](https://www.researchgate.net/publication/367064962/figure/fig2/AS%3A11431281113340188%401673878093986/LPG-Cylinder-Distribution-Operations.jpg)
+
 
 ![Image](https://turbo.vernier.com/wp-content/uploads/2019/12/lab.PSV-31-COMP-pressure_and_temperature.png)
 
 ![Image](https://ars.els-cdn.com/content/image/1-s2.0-S1875510018303251-gr2.jpg)
 
-![Image](https://figures.semanticscholar.org/0c863dd1905a2b541d8fce8aadf27927e25e7f56/3-Figure1-1.png)
+
 
 # 🚀 Gas Craddle Billing Calculation System
 
