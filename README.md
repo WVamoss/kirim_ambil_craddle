@@ -298,7 +298,7 @@ Licensed under **MIT License**.
 
 ## 👥 Authors
 
-**Your Name**
-Initial work – [YourGitHub]
+**Ghori Ghuraishi Mulyadi**
+Initial work – [WVamoss]
 
 ---
